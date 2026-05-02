@@ -90,6 +90,15 @@ We are hiring a Data Analyst with experience in Python, SQL, and data visualizat
 
 ---
 
+## 📸 Screenshots
+
+![Output 1](op%201.png)
+![Output 2](op%202.png)
+![Output 3](op%203.png)
+![Output 4](op%204.png)
+
+---
+
 ## 🎯 Key Highlights
 
 - Focused on **recall** to avoid missing fake jobs
