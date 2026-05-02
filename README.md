@@ -66,23 +66,6 @@ Fake-Job-Detection/
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone the repository
-git clone https://github.com/your-username/Fake-Job-Detection.git
-cd Fake-Job-Detection
-
-
-2. Install dependencies
-pip install streamlit scikit-learn pandas joblib
-
-
-3. Run the app
-streamlit run app.py
-
-
----
-
 ## 💡 Example
 
 ### ❌ Fake Job Input:
